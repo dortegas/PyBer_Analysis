@@ -14,4 +14,4 @@ As we can see, users from rural cities pay on average almost $10 more than users
 
 As a result, the average fare per driver in urban cities is $16.57, $55.49 in rural, and $39.50 in suburban. So it could be necessary to increase the number of drivers in suburban and rural cities to balance the average fare per driver. These results could indicate a low quality of service in rural and suburban cities due to the availability of drivers.
 
-<img src="Resources/PyBer_fare_summary.png" width="650" />
+<img src="analysis/PyBer_fare_summary.png" width="650" />
