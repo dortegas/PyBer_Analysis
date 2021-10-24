@@ -17,3 +17,5 @@ As a result of the summary by city type, the average fare per driver in urban ci
 The analysis of the total fares from January 1st to April 28th, 2019, by week, showcases that the urban cities had the highest. The third February week has the highest total fares for each city type. As the graph below showcases.
 
 <img src="analysis/PyBer_fare_summary.png" />
+
+## Summary
