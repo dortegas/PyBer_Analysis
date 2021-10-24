@@ -8,4 +8,6 @@ In this last sprint, we created a new data frame to find the average fare per we
 ## Results
 The ridesharing summary by city type showcases the comparison of PyBer services in three city types: rural, suburban, and urban. The users' demand in urban cities is more than in suburban and rural. There are 1,625 total rides in urban, 625 rides in suburban, and 125 rides in rural.
 
-<img src="Resources/summary_rides.PNG" width="650" align="center" />
+<img src="Resources/summary_rides.PNG" width="650" />
+
+As we can see, users from rural cities pay almost $10 more than users in urban cities on average and $6.44 more than users in suburban cities. However, it could be correlated by the number of total drivers and rides per city type, for instance, the total rides in rural cities are almost the double available drivers.
