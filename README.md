@@ -10,4 +10,4 @@ The ridesharing summary by city type showcases the comparison of PyBer services 
 
 <img src="Resources/summary_rides.PNG" width="650" />
 
-As we can see, users from rural cities pay almost $10 more than users in urban cities on average and $6.44 more than users in suburban cities. However, it could be correlated by the number of total drivers and rides per city type, for instance, the total rides in rural cities are almost the double available drivers.
+As we can see, users from rural cities pay on average almost $10 more than users in urban cities and $6.44 more than users in suburban cities. However, it could be related by the number of total drivers and rides per city type, for instance, the total rides in rural cities are almost double available drivers while the total rides are almost two-third of total available drivers in urban cities.
