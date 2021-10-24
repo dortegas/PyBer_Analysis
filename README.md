@@ -19,3 +19,8 @@ The analysis of the total fares from January 1st to April 28th, 2019, by week, s
 <img src="analysis/PyBer_fare_summary.png" />
 
 ## Summary
+Accordingly, with the analysis outcomes, we could give the following recommendations to PyBer CEO:
+
+1. Recruit more drivers to rural cities to improve the quality of service in such a way it turns the rides affordable and reduces the minutes of the users waiting for the service.
+2. Balance the number of drivers in each city type to increase the average fare per driver in urban and suburban cities. It could help to improve the quality of service in every city type too.
+3. Consider fares adjustment per city type based on the outcomes of a survey in the ridesharing application to know the service's affordability and the wait times based on driver availability.
